@@ -1,1 +1,1 @@
-# MyProject_1st_in_Pycharm
+# My_1st_Project_in_Pycharm
